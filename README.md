@@ -1,4 +1,4 @@
-# 🔐 Subscription Tracker API (Backend)
+# 🔐 Subscription Tracker API 
 
 A full-featured **backend API** built using **Node.js**, **Express**, and **MongoDB**, designed to manage user subscriptions with authentication, rate limiting, email notifications, and secure workflows.
 
